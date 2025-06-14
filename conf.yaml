@@ -19,3 +19,8 @@ blogs:
     createAt: '2025-06-01'
     updateAt: '2025-06-01'
     tags: c++ java
+  - title: 网址部署
+    path: posts/githubDeploy.md
+    createAt: '2025-06-01'
+    updateAt: '2025-06-014'
+    tags: github
