@@ -1,0 +1,21 @@
+siteTitle: LwjBlog
+author: lindaren
+createAt: '2025-06-01'
+
+profile:
+  avatar: https://raw.githubusercontent.com/lindaren-user/imageCollections/main/basic/favicon.jpg
+  username: lindaren
+  school: 广州大学
+  location: 广州
+  hobby: games，basketball
+  description: 热爱前端开发，喜欢探索新技术，享受代码带来的乐趣。欢迎来到我的个人博客，这里记录着我的学习与成长，也欢迎志同道合的朋友一起交流！
+  github: https://github.com/lindaren-user
+  wechat: wj2144632819
+  email: wj2144632819@qq.com
+
+blogs:
+  - title: 欢迎
+    path: /posts/readme.md
+    createAt: '2025-06-01'
+    updateAt: '2025-06-01'
+    tags: c++ java
