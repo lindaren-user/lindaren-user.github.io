@@ -1,1 +1,0 @@
-import{H as r}from"./Header-DbpvGvRS.js";import{p as a}from"./Profile-Br3rCzdv.js";import{c as o,e as t,j as s,f as n,F as m,o as p}from"./index-Cw8VN3tf.js";const _={__name:"Index",setup(c){return(l,e)=>(p(),o(m,null,[t(r,{header:"About",src:n(a)},null,8,["src"]),e[0]||(e[0]=s(" 更多待续... "))],64))}};export{_ as default};

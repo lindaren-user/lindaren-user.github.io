@@ -15,7 +15,7 @@ profile:
 
 blogs:
   - title: 欢迎
-    path: /posts/readme.md
+    path: posts/readme.md
     createAt: '2025-06-01'
     updateAt: '2025-06-01'
     tags: c++ java
